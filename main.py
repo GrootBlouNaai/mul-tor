@@ -14,7 +14,7 @@ if sys.gettrace() is not None:
     DEBUG = True
 else:
     DEBUG = False
-DEBUG = True
+
 # Things in this part are meant for debugging and toggling certain things.
 use_test_file = True
 test_small_file = True
