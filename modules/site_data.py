@@ -4,7 +4,7 @@ sites_data_dict = {
         "url": "https://{server}.gofile.io/uploadFile",
         "api_url": "https://gofile.io/api/",
         "download_url_base": "https://gofile.io/d/",
-        "server_url": "https://api.gofile.io/getServer"
+        "server_url": "https://api.gofile.io/servers"
     },
     "Pixeldrain": {
         "apiKey": True,
